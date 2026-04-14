@@ -19,12 +19,12 @@
 ## Project Structure
 customer-churn-app/
 │
-├── app.py                 # Streamlit app
-├── requirements.txt       # Dependencies
-├── model.h5 / model.pkl   # Trained model
-├── scaler.pkl             # Scaler
-├── encoder.pkl            # Encoder(s)
-└── README.md              # Project documentation
+- ├── app.py                 # Streamlit app
+- ├── requirements.txt       # Dependencies
+- ├── model.h5 / model.pkl   # Trained model
+- ├── scaler.pkl             # Scaler
+- ├── encoder.pkl            # Encoder(s)
+- └── README.md              # Project documentation
 
 ## Installation
 Clone the repository:
@@ -44,13 +44,13 @@ cd your-repo-name
 
 ## Deployment
 - This app can be deployed on:
-- Streamlit Community Cloud
+ Streamlit Community Cloud
 
 ## Future Improvements
 - Add model performance dashboard
 -Improve UI/UX
 - Add database support
 - Add user authentication
-- Author
-
-## Sahil Qureshi
+  
+## Author
+ Sahil Qureshi
