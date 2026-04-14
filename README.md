@@ -1,6 +1,9 @@
 # ANN-Classification-churn-Prediction
 - A machine learning web application built with Streamlit to predict whether a customer is likely to churn based on their profile and account details.
 
+  ![bg jpg](https://github.com/user-attachments/assets/68630c4c-1f7c-4a80-93e9-aa05ff0c7bab)
+
+
 ## Features
 - Predict customer churn in real time
 - User-friendly Streamlit interface
