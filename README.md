@@ -28,7 +28,7 @@ customer-churn-app/
 
 ## Installation
 Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/sahil20-gif/Customer-churn-Prediction.git
 cd your-repo-name
  ## Install dependencies:
 - pip install -r requirements.txt
