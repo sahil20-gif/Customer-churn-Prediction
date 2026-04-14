@@ -34,23 +34,23 @@ cd your-repo-name
 - pip install -r requirements.txt
 
 ## Run the app locally:
-streamlit run app.py
+- streamlit run app.py
 
 ## Usage
-Open the app in your browser.
-Enter customer details such as age, balance, credit score, etc.
-Click the prediction button.
-View the churn prediction result instantly.
+- Open the app in your browser.
+- Enter customer details such as age, balance, credit score, etc.
+- Click the prediction button.
+- View the churn prediction result instantly.
 
 ## Deployment
 - This app can be deployed on:
 - Streamlit Community Cloud
 
 ## Future Improvements
--Add model performance dashboard
+- Add model performance dashboard
 -Improve UI/UX
--Add database support
--Add user authentication
--Author
+- Add database support
+- Add user authentication
+- Author
 
-Sahil Qureshi
+## Sahil Qureshi
